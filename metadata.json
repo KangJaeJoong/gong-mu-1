@@ -1,0 +1,6 @@
+{
+  "name": "AI 세미나: 공무의 배워서 남주자",
+  "description": "AI를 쉽고 실용적으로 배우고 함께 나누는 온라인 세미나 랜딩 페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
